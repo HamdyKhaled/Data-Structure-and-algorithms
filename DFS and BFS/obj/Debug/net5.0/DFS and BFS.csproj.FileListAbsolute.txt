@@ -1,0 +1,16 @@
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DFS and BFS\bin\Debug\net5.0\DFS and BFS.exe
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DFS and BFS\bin\Debug\net5.0\DFS and BFS.deps.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DFS and BFS\bin\Debug\net5.0\DFS and BFS.runtimeconfig.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DFS and BFS\bin\Debug\net5.0\DFS and BFS.runtimeconfig.dev.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DFS and BFS\bin\Debug\net5.0\DFS and BFS.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DFS and BFS\bin\Debug\net5.0\ref\DFS and BFS.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DFS and BFS\bin\Debug\net5.0\DFS and BFS.pdb
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DFS and BFS\obj\Debug\net5.0\DFS and BFS.csproj.AssemblyReference.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DFS and BFS\obj\Debug\net5.0\DFS and BFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DFS and BFS\obj\Debug\net5.0\DFS and BFS.AssemblyInfoInputs.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DFS and BFS\obj\Debug\net5.0\DFS and BFS.AssemblyInfo.cs
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DFS and BFS\obj\Debug\net5.0\DFS and BFS.csproj.CoreCompileInputs.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DFS and BFS\obj\Debug\net5.0\DFS and BFS.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DFS and BFS\obj\Debug\net5.0\ref\DFS and BFS.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DFS and BFS\obj\Debug\net5.0\DFS and BFS.pdb
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DFS and BFS\obj\Debug\net5.0\DFS and BFS.genruntimeconfig.cache

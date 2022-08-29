@@ -1,0 +1,16 @@
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinaryTrees\bin\Debug\net5.0\BinaryTrees.exe
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinaryTrees\bin\Debug\net5.0\BinaryTrees.deps.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinaryTrees\bin\Debug\net5.0\BinaryTrees.runtimeconfig.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinaryTrees\bin\Debug\net5.0\BinaryTrees.runtimeconfig.dev.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinaryTrees\bin\Debug\net5.0\BinaryTrees.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinaryTrees\bin\Debug\net5.0\ref\BinaryTrees.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinaryTrees\bin\Debug\net5.0\BinaryTrees.pdb
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinaryTrees\obj\Debug\net5.0\BinaryTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinaryTrees\obj\Debug\net5.0\BinaryTrees.AssemblyInfoInputs.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinaryTrees\obj\Debug\net5.0\BinaryTrees.AssemblyInfo.cs
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinaryTrees\obj\Debug\net5.0\BinaryTrees.csproj.CoreCompileInputs.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinaryTrees\obj\Debug\net5.0\BinaryTrees.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinaryTrees\obj\Debug\net5.0\ref\BinaryTrees.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinaryTrees\obj\Debug\net5.0\BinaryTrees.pdb
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinaryTrees\obj\Debug\net5.0\BinaryTrees.genruntimeconfig.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinaryTrees\obj\Debug\net5.0\BinaryTrees.csproj.AssemblyReference.cache

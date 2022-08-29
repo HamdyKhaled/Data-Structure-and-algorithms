@@ -1,0 +1,16 @@
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinarySearch\bin\Debug\net5.0\BinarySearch.exe
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinarySearch\bin\Debug\net5.0\BinarySearch.deps.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinarySearch\bin\Debug\net5.0\BinarySearch.runtimeconfig.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinarySearch\bin\Debug\net5.0\BinarySearch.runtimeconfig.dev.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinarySearch\bin\Debug\net5.0\BinarySearch.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinarySearch\bin\Debug\net5.0\ref\BinarySearch.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinarySearch\bin\Debug\net5.0\BinarySearch.pdb
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinarySearch\obj\Debug\net5.0\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinarySearch\obj\Debug\net5.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinarySearch\obj\Debug\net5.0\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinarySearch\obj\Debug\net5.0\BinarySearch.AssemblyInfo.cs
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinarySearch\obj\Debug\net5.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinarySearch\obj\Debug\net5.0\BinarySearch.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinarySearch\obj\Debug\net5.0\ref\BinarySearch.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinarySearch\obj\Debug\net5.0\BinarySearch.pdb
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\BinarySearch\obj\Debug\net5.0\BinarySearch.genruntimeconfig.cache

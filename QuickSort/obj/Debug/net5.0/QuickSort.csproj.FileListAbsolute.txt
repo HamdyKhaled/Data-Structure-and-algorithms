@@ -1,0 +1,16 @@
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\QuickSort\bin\Debug\net5.0\QuickSort.exe
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\QuickSort\bin\Debug\net5.0\QuickSort.deps.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\QuickSort\bin\Debug\net5.0\QuickSort.runtimeconfig.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\QuickSort\bin\Debug\net5.0\QuickSort.runtimeconfig.dev.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\QuickSort\bin\Debug\net5.0\QuickSort.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\QuickSort\bin\Debug\net5.0\ref\QuickSort.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\QuickSort\bin\Debug\net5.0\QuickSort.pdb
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\QuickSort\obj\Debug\net5.0\QuickSort.csproj.AssemblyReference.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\QuickSort\obj\Debug\net5.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\QuickSort\obj\Debug\net5.0\QuickSort.AssemblyInfoInputs.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\QuickSort\obj\Debug\net5.0\QuickSort.AssemblyInfo.cs
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\QuickSort\obj\Debug\net5.0\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\QuickSort\obj\Debug\net5.0\QuickSort.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\QuickSort\obj\Debug\net5.0\ref\QuickSort.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\QuickSort\obj\Debug\net5.0\QuickSort.pdb
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\QuickSort\obj\Debug\net5.0\QuickSort.genruntimeconfig.cache

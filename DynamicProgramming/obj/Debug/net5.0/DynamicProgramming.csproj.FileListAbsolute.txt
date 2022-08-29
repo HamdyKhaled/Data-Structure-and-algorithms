@@ -1,0 +1,16 @@
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.exe
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.deps.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.runtimeconfig.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.runtimeconfig.dev.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DynamicProgramming\bin\Debug\net5.0\ref\DynamicProgramming.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DynamicProgramming\bin\Debug\net5.0\DynamicProgramming.pdb
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.csproj.AssemblyReference.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.AssemblyInfoInputs.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.AssemblyInfo.cs
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DynamicProgramming\obj\Debug\net5.0\ref\DynamicProgramming.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.pdb
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\DynamicProgramming\obj\Debug\net5.0\DynamicProgramming.genruntimeconfig.cache

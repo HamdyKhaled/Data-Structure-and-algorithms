@@ -1,0 +1,16 @@
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\TwoPointersProblems\bin\Debug\net5.0\TwoPointersProblems.exe
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\TwoPointersProblems\bin\Debug\net5.0\TwoPointersProblems.deps.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\TwoPointersProblems\bin\Debug\net5.0\TwoPointersProblems.runtimeconfig.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\TwoPointersProblems\bin\Debug\net5.0\TwoPointersProblems.runtimeconfig.dev.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\TwoPointersProblems\bin\Debug\net5.0\TwoPointersProblems.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\TwoPointersProblems\bin\Debug\net5.0\ref\TwoPointersProblems.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\TwoPointersProblems\bin\Debug\net5.0\TwoPointersProblems.pdb
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\TwoPointersProblems\obj\Debug\net5.0\TwoPointersProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\TwoPointersProblems\obj\Debug\net5.0\TwoPointersProblems.AssemblyInfoInputs.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\TwoPointersProblems\obj\Debug\net5.0\TwoPointersProblems.AssemblyInfo.cs
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\TwoPointersProblems\obj\Debug\net5.0\TwoPointersProblems.csproj.CoreCompileInputs.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\TwoPointersProblems\obj\Debug\net5.0\TwoPointersProblems.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\TwoPointersProblems\obj\Debug\net5.0\ref\TwoPointersProblems.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\TwoPointersProblems\obj\Debug\net5.0\TwoPointersProblems.pdb
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\TwoPointersProblems\obj\Debug\net5.0\TwoPointersProblems.genruntimeconfig.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\TwoPointersProblems\obj\Debug\net5.0\TwoPointersProblems.csproj.AssemblyReference.cache

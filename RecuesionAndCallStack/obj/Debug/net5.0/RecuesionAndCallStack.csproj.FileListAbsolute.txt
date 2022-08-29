@@ -1,0 +1,16 @@
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\RecuesionAndCallStack\bin\Debug\net5.0\RecuesionAndCallStack.exe
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\RecuesionAndCallStack\bin\Debug\net5.0\RecuesionAndCallStack.deps.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\RecuesionAndCallStack\bin\Debug\net5.0\RecuesionAndCallStack.runtimeconfig.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\RecuesionAndCallStack\bin\Debug\net5.0\RecuesionAndCallStack.runtimeconfig.dev.json
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\RecuesionAndCallStack\bin\Debug\net5.0\RecuesionAndCallStack.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\RecuesionAndCallStack\bin\Debug\net5.0\ref\RecuesionAndCallStack.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\RecuesionAndCallStack\bin\Debug\net5.0\RecuesionAndCallStack.pdb
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\RecuesionAndCallStack\obj\Debug\net5.0\RecuesionAndCallStack.csproj.AssemblyReference.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\RecuesionAndCallStack\obj\Debug\net5.0\RecuesionAndCallStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\RecuesionAndCallStack\obj\Debug\net5.0\RecuesionAndCallStack.AssemblyInfoInputs.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\RecuesionAndCallStack\obj\Debug\net5.0\RecuesionAndCallStack.AssemblyInfo.cs
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\RecuesionAndCallStack\obj\Debug\net5.0\RecuesionAndCallStack.csproj.CoreCompileInputs.cache
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\RecuesionAndCallStack\obj\Debug\net5.0\RecuesionAndCallStack.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\RecuesionAndCallStack\obj\Debug\net5.0\ref\RecuesionAndCallStack.dll
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\RecuesionAndCallStack\obj\Debug\net5.0\RecuesionAndCallStack.pdb
+C:\Users\Hamdy.Khaled\source\repos\ConsoleApp1\RecuesionAndCallStack\obj\Debug\net5.0\RecuesionAndCallStack.genruntimeconfig.cache
